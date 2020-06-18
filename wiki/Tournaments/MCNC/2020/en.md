@@ -399,3 +399,4 @@ Before matches will start, the captain of each player will roll and the one with
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
